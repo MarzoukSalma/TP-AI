@@ -1,0 +1,38 @@
+antécédent,conséquent,support,confiance,lift
+other vegetables + whole milk,root vegetables,0.023,0.31,2.842
+root vegetables + whole milk,other vegetables,0.023,0.474,2.45
+root vegetables,other vegetables,0.047,0.435,2.247
+whipped/sour cream,other vegetables,0.029,0.403,2.082
+whole milk + yogurt,other vegetables,0.022,0.397,2.054
+other vegetables + yogurt,whole milk,0.022,0.513,2.007
+butter,whole milk,0.028,0.497,1.946
+pork,other vegetables,0.022,0.376,1.941
+curd,whole milk,0.026,0.49,1.919
+other vegetables + root vegetables,whole milk,0.023,0.489,1.915
+butter,other vegetables,0.02,0.361,1.868
+domestic eggs,whole milk,0.03,0.473,1.85
+domestic eggs,other vegetables,0.022,0.351,1.814
+citrus fruit,other vegetables,0.029,0.349,1.803
+pip fruit,other vegetables,0.026,0.345,1.785
+sausage,rolls/buns,0.031,0.326,1.771
+tropical fruit,other vegetables,0.036,0.342,1.768
+whipped/sour cream,whole milk,0.032,0.45,1.76
+root vegetables,whole milk,0.049,0.449,1.756
+frozen vegetables,whole milk,0.02,0.425,1.663
+margarine,whole milk,0.024,0.413,1.617
+yogurt,other vegetables,0.043,0.311,1.608
+beef,whole milk,0.021,0.405,1.585
+tropical fruit,whole milk,0.042,0.403,1.578
+yogurt,whole milk,0.056,0.402,1.572
+pip fruit,whole milk,0.03,0.398,1.557
+brown bread,whole milk,0.025,0.389,1.521
+other vegetables,whole milk,0.075,0.387,1.514
+pork,whole milk,0.022,0.384,1.505
+pastry,whole milk,0.033,0.374,1.463
+fruit/vegetable juice,whole milk,0.027,0.368,1.442
+citrus fruit,whole milk,0.031,0.369,1.442
+frankfurter,whole milk,0.021,0.348,1.363
+newspapers,whole milk,0.027,0.343,1.341
+sausage,whole milk,0.03,0.318,1.245
+bottled water,whole milk,0.034,0.311,1.217
+rolls/buns,whole milk,0.057,0.308,1.205

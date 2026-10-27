@@ -1,0 +1,15 @@
+Ciel,Température,Humidité,Vent,Jouer
+Soleil,Chaude,Élevée,Faible,Non
+Soleil,Chaude,Élevée,Fort,Non
+Couvert,Chaude,Élevée,Faible,Oui
+Pluie,Douce,Élevée,Faible,Oui
+Pluie,Fraîche,Normale,Faible,Oui
+Pluie,Fraîche,Normale,Fort,Non
+Couvert,Fraîche,Normale,Fort,Oui
+Soleil,Douce,Élevée,Faible,Non
+Soleil,Fraîche,Normale,Faible,Oui
+Pluie,Douce,Normale,Faible,Oui
+Soleil,Douce,Normale,Fort,Oui
+Couvert,Douce,Élevée,Fort,Oui
+Couvert,Chaude,Normale,Faible,Oui
+Pluie,Douce,Élevée,Fort,Non

@@ -1,0 +1,5 @@
+Modèle,Accuracy (CV10),Écart-type acc.,AUC (CV10),Écart-type AUC
+Régression logistique,0.7964,0.0314,0.8602,0.0404
+Arbre (profondeur 4),0.8233,0.024,0.8431,0.0366
+KNN (15 voisins),0.8024,0.0307,0.8542,0.0324
+Forêt aléatoire (300 arbres),0.8218,0.0428,0.8729,0.0305
